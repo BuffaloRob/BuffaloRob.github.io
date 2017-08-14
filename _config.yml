@@ -1,0 +1,21 @@
+# Site settings
+title: First Post
+header-img: img/home-bg.png
+email: peckham.rob@gmail.com
+copyright_name: BuffaloRob
+description: > # this means to ignore newlines until "baseurl:"
+  My first post
+baseurl: "" # the subpath of your site, e.g. /blog
+twitter_username: 
+github_username:  BuffaloRob
+learn_profile: BuffaloRob
+email_username: peckham.rob@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
