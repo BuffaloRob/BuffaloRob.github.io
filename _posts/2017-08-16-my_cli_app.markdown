@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "My CLI App"
+date:   2017-08-16 23:20:26 +0000
+---
+
+
+This was tougher and took me a lot longer than I thought it would. I had two ideas to choose from when I started the project, The first was something that would scratch an itch that I had, convert the archaic calendar view on hpdejunkie.com to something I could take a quick look at and see if any of the events were withing my traveling distance. I knew after inspecting the page that this one was going to be pretty hard. The other option was the top 50 hiking trails in North Carolina,  I imagine if I went this route my project would've been done a week or two ago. But it wasn't giving me any information that I already had access to, so I went with the former. 
+I think one of the biggest challenges was just the date format itself. Every other example I looked at was able to grab their objects from an @@all pretty easily because they were listed in order. My list was a sporadic set of dates so that option wasn't on the table. It took a while to figure out how to scrape the information and turn it into a hash with the key as the date and then search @@all to find that key and return its value.
+Overall I'm happy with what I made and I plan on going back and spicing it up a little once I finish the course. Like I said this satisfied a need that I had, that'll always give me a sense of accomplishment.
