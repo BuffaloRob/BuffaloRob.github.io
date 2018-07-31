@@ -1,10 +1,10 @@
 # Site settings
-title: First Post
+title: Learning Web Development
 header-img: img/home-bg.png
 email: peckham.rob@gmail.com
 copyright_name: BuffaloRob
 description: > # this means to ignore newlines until "baseurl:"
-  My first post
+  Making my way through the the learn fullstack web development course
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  BuffaloRob
